@@ -1,3 +1,7 @@
+// Copyright (c) 2025 sakib-maho
+// Licensed under the MIT License
+// See LICENSE file for details
+
 // @APIVersion 1.0.0
 // @Title beego Test API
 // @Description beego has a very cool tools to autogenerate documents for your API
